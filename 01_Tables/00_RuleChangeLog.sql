@@ -1,6 +1,3 @@
-USE [DataProfile]
-GO
-
 /****** Object:  Table [dv].[RuleChangeLog]    Script Date: 11/7/2017 7:02:16 AM ******/
 SET ANSI_NULLS ON
 GO
