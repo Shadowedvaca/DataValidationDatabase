@@ -1,6 +1,6 @@
 ## Data Validation Database
 
-Database Schema for doing automated Data Validation in SQL Server
+Database for doing automated Data Validation in SQL Server
 
 ## Welcome to GitHub Pages
 
